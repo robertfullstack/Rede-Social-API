@@ -1,0 +1,30 @@
+header nav {
+    margin-left: 30px;
+}
+
+#navbarNavAltMarkup {
+    margin-left: 10px;
+}
+
+#list-publicacoes {
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr;
+}
+
+.card-main {
+    width: 80%;
+    margin: 10px auto;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.card-main img {
+    margin: auto;
+    display: flex;
+}
+
+.card-main p {
+    padding-left: 10px;
+}
